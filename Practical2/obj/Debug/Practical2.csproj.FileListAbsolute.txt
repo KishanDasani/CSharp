@@ -1,0 +1,6 @@
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\bin\Debug\Practical2.exe.config
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\bin\Debug\Practical2.exe
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\bin\Debug\Practical2.pdb
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\obj\Debug\Practical2.csprojAssemblyReference.cache
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\obj\Debug\Practical2.exe
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\obj\Debug\Practical2.pdb
