@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6023F2E6-38D8-4A02-A38A-19585E5E9135}</ProjectGuid>
+    <ProjectGuid>{88DBB466-E26C-4B25-9DA9-38E9F86492E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Practical1</RootNamespace>
-    <AssemblyName>Practical1</AssemblyName>
+    <RootNamespace>Practical5</RootNamespace>
+    <AssemblyName>Practical5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -21,7 +21,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>3</WarningLevel>
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

@@ -1,0 +1,5 @@
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical4\bin\Debug\Practical4.exe.config
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical4\bin\Debug\Practical4.exe
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical4\bin\Debug\Practical4.pdb
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical4\obj\Debug\Practical4.exe
+E:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical4\obj\Debug\Practical4.pdb

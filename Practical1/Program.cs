@@ -69,11 +69,10 @@ namespace Practical1
             count = number - 1;
             for (j = 1; j <= number; j++)
             {
-                #region Printing Space  
                 for (i = 1; i <= count; i++)
                     Console.Write(" ");
                 count--;
-                #endregion
+
                 for (i = 1; i <= 2 * j - 1; i++)
                     Console.Write("*");
                 Console.WriteLine();
@@ -82,4 +81,3 @@ namespace Practical1
         }
     }
 }
-
