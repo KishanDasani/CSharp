@@ -1,0 +1,6 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical7\obj\Debug\Practical7.csprojAssemblyReference.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical7\bin\Debug\Practical7.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical7\bin\Debug\Practical7.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical7\bin\Debug\Practical7.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical7\obj\Debug\Practical7.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical7\obj\Debug\Practical7.pdb
