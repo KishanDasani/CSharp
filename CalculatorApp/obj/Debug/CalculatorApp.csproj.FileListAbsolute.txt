@@ -1,0 +1,9 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CalculatorApp\obj\Debug\CalculatorApp.pdb

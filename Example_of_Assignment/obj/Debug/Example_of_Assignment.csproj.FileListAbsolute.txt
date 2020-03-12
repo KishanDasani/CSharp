@@ -1,6 +1,0 @@
-F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Example_of_Assignment\bin\Debug\Example_of_Assignment.exe.config
-F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Example_of_Assignment\bin\Debug\Example_of_Assignment.exe
-F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Example_of_Assignment\bin\Debug\Example_of_Assignment.pdb
-F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Example_of_Assignment\obj\Debug\Example_of_Assignment.csprojAssemblyReference.cache
-F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Example_of_Assignment\obj\Debug\Example_of_Assignment.exe
-F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Example_of_Assignment\obj\Debug\Example_of_Assignment.pdb

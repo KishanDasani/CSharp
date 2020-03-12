@@ -1,0 +1,9 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\bin\Debug\FontResizer.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\bin\Debug\FontResizer.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\bin\Debug\FontResizer.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\obj\Debug\FontResizer.csprojAssemblyReference.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\obj\Debug\FontResizer.Form1.resources
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\obj\Debug\FontResizer.Properties.Resources.resources
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\obj\Debug\FontResizer.csproj.GenerateResource.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\obj\Debug\FontResizer.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\FontResizer\obj\Debug\FontResizer.pdb
