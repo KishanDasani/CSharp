@@ -104,6 +104,7 @@ namespace Practical5
             }
             Console.WriteLine("Decimal number: " + decimalNumber);
             Console.WriteLine("Octal number: " + output);
+            Console.ReadLine();
         }
     }
 }

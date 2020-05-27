@@ -1,0 +1,6 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\1-101-1001\bin\Debug\1-101-1001.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\1-101-1001\bin\Debug\1-101-1001.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\1-101-1001\bin\Debug\1-101-1001.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\1-101-1001\obj\Debug\1-101-1001.csprojAssemblyReference.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\1-101-1001\obj\Debug\1-101-1001.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\1-101-1001\obj\Debug\1-101-1001.pdb

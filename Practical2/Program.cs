@@ -35,7 +35,7 @@ namespace Practical2
                 Console.WriteLine("\nPlease enter valid details.. your name and country inputs must contain only characters");
 
             //finishing the program with taking a character from user
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

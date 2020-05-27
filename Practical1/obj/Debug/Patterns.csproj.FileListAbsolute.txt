@@ -1,0 +1,6 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical1\bin\Debug\Patterns.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical1\bin\Debug\Patterns.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical1\bin\Debug\Patterns.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical1\obj\Debug\Patterns.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical1\obj\Debug\Patterns.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical1\obj\Debug\Patterns.csprojAssemblyReference.cache

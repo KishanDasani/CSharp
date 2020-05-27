@@ -1,0 +1,6 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Square_Pattern\bin\Debug\Square_Pattern.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Square_Pattern\bin\Debug\Square_Pattern.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Square_Pattern\bin\Debug\Square_Pattern.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Square_Pattern\obj\Debug\Square_Pattern.csprojAssemblyReference.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Square_Pattern\obj\Debug\Square_Pattern.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Square_Pattern\obj\Debug\Square_Pattern.pdb

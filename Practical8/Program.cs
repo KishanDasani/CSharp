@@ -24,7 +24,7 @@ namespace Practical8
 
             Console.WriteLine($"{ INR.ToString("C", new CultureInfo("hi-IN"))} = {dollar.ToString("C", new CultureInfo("en-GB"))}");
 
-            Console.Read();
+            Console.ReadLine();
 
         }
     }

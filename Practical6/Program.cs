@@ -16,7 +16,7 @@ namespace Practical6
             InfixToPostfix infixToPostfix = new InfixToPostfix();
             infixToPostfix.Converter(ref infix, out postfix);
             Console.WriteLine(postfix);
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }

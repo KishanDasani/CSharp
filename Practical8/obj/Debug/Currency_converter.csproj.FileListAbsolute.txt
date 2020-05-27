@@ -1,0 +1,5 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical8\bin\Debug\Currency_converter.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical8\bin\Debug\Currency_converter.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical8\bin\Debug\Currency_converter.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical8\obj\Debug\Currency_converter.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical8\obj\Debug\Currency_converter.pdb

@@ -1,0 +1,9 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\bin\Debug\Form1.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\bin\Debug\Form1.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\bin\Debug\Form1.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\obj\Debug\Form1.Form1.resources
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\obj\Debug\Form1.Properties.Resources.resources
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\obj\Debug\Form1.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Form1\obj\Debug\Form1.pdb

@@ -1,0 +1,6 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\ListFiles\bin\Debug\ListFiles.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\ListFiles\bin\Debug\ListFiles.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\ListFiles\bin\Debug\ListFiles.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\ListFiles\obj\Debug\ListFiles.csprojAssemblyReference.cache
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\ListFiles\obj\Debug\ListFiles.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\ListFiles\obj\Debug\ListFiles.pdb

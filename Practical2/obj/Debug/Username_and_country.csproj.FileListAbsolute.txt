@@ -1,0 +1,5 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\bin\Debug\Username_and_country.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\bin\Debug\Username_and_country.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\bin\Debug\Username_and_country.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\obj\Debug\Username_and_country.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical2\obj\Debug\Username_and_country.pdb

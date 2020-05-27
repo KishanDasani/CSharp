@@ -1,0 +1,5 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical3\bin\Debug\abstract_inheritance.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical3\bin\Debug\abstract_inheritance.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical3\bin\Debug\abstract_inheritance.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical3\obj\Debug\abstract_inheritance.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical3\obj\Debug\abstract_inheritance.pdb

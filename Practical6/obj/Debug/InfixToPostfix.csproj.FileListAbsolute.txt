@@ -1,0 +1,5 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical6\bin\Debug\InfixToPostfix.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical6\bin\Debug\InfixToPostfix.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical6\bin\Debug\InfixToPostfix.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical6\obj\Debug\InfixToPostfix.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical6\obj\Debug\InfixToPostfix.pdb

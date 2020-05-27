@@ -1,0 +1,6 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CoronaAssignDay2(Program2)\bin\Debug\CoronaAssignDay2(Program2).exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CoronaAssignDay2(Program2)\bin\Debug\CoronaAssignDay2(Program2).exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CoronaAssignDay2(Program2)\bin\Debug\CoronaAssignDay2(Program2).pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CoronaAssignDay2(Program2)\obj\Debug\CoronaAssignDay2(Program2).exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CoronaAssignDay2(Program2)\obj\Debug\CoronaAssignDay2(Program2).pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\CoronaAssignDay2(Program2)\obj\Debug\CoronaAssignDay2(Program2).csprojAssemblyReference.cache

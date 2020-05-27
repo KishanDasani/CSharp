@@ -1,0 +1,5 @@
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical9\bin\Debug\Temperature_converter.exe.config
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical9\bin\Debug\Temperature_converter.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical9\bin\Debug\Temperature_converter.pdb
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical9\obj\Debug\Temperature_converter.exe
+F:\Materials\Sem-6\DotNet\DotNetProjects\DotNetSolution\Practical9\obj\Debug\Temperature_converter.pdb

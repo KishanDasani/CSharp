@@ -401,8 +401,8 @@ namespace Practical7
                 case 9: output = NineDigitNumber(number); break;
                 default: output = "not assigned"; break;
             }
-            Console.WriteLine(output);
-            Console.Read();
+            Console.WriteLine("Input : " + number + "\nOutput : " +output);
+            Console.ReadLine();
         }
     
     }
